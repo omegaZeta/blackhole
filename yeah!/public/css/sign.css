@@ -1,0 +1,12 @@
+form{
+  height: 30rem;
+  width: 20rem;
+  margin: 17% 0 10% 0;
+  display: inline-block;
+}
+body{
+  text-align: center;
+}
+h1{
+  font-family: fantasy;
+}
